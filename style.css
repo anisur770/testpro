@@ -73,12 +73,12 @@ h2{
 }
 .my-future{
     height: 200px;
-    box-shadow: 10px 10px 20px blue;
-    border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
 }
 #full-stack{
     background-color: white;
@@ -89,7 +89,7 @@ h2{
 }
 #full-stack2{
     border-left: 5px solid;
-    border-image: linear-gradient(180deg, rgb(233, 10, 122), rgb(136, 21, 111) );
+    border-image: linear-gradient(180deg, rgb(190, 4, 44), rgb(231, 52, 121) );
     border-image: ;
     border-image-slice: 2;
   }
